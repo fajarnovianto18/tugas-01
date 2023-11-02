@@ -1,0 +1,49 @@
+body
+{
+    font-family: Arial,sans-serif;
+    margin:0 ;
+    padding: 0;
+}
+
+.navbar{
+    background-color: black;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: antiquewhite;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.a-navbar:hover {
+    background-color: blue;
+}
+
+.rounded-image {
+    width: 250px; 
+    height: 250px;
+    border-radius: 100%;
+}
+
+.kotak {
+        background-color: lightgrey;
+        width: 1220px;
+        border: 1px solid black;
+        padding: 50px;
+        margin: 20px
+}
+
+.text {
+    font-size: larger;
+}
+
+footer {
+    background-color: black;
+    color: #fff; 
+    padding: 14px; 
+    text-align: center;
+}
