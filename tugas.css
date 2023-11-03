@@ -31,10 +31,10 @@ body
 
 .kotak {
         background-color: rgb(19, 18, 18);
-        width: 1220px;
+        width: 1250px;
         border: 1px solid black;
         padding: 50px;
-        margin: 20px
+        margin: 0;
 }
 
 .text {
