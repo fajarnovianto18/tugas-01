@@ -3,11 +3,13 @@ body
     font-family: Arial,sans-serif;
     margin:0 ;
     padding: 0;
+    background-color: #2FD087;
 }
 
 .navbar{
-    background-color: black;
+    background-color:#D02F78;
     overflow: hidden;
+    display: block;
 }
 
 .navbar a {
@@ -20,7 +22,7 @@ body
 }
 
 .a-navbar:hover {
-    background-color: blue;
+    background-color:black;
 }
 
 .rounded-image {
@@ -28,25 +30,33 @@ body
     height: 200px;
     border-radius: 100%;
 }
+.profil{
+color: #fff;
+}
 
 .kotak {
-        background-color: rgb(19, 18, 18);
-        width: 100%;
-        border: 1px solid black;
-        margin: 0;
-        margin-top: 0;
-        margin-left: 0;
-        margin-right: 0;
+    display: block;
+    background-color:#D02F78 ;
+    width: 100%;
+    border: 1px solid black;
+    margin: 0;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .text {
     font-size: larger;
     color: white;
 }
+.kontak{
+color: #fff;
+}
 
 footer {
-    background-color: black;
+    background-color: #D02F78;
     color: #fff; 
     padding: 14px; 
     text-align: center;
+    display: block;
 }
