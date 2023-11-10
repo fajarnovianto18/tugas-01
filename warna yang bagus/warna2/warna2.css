@@ -1,0 +1,63 @@
+body
+{
+    font-family: Arial,sans-serif;
+    margin:0 ;
+    padding: 0;
+    background-color: #16A72E;
+}
+
+.nama{
+    color: #A7168F;
+}
+.info{
+color: #A7168F;
+}
+
+
+
+
+.navbar{
+    background-color: #A7168F;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #16A72E;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.a-navbar:hover {
+    background-color: orange;
+}
+
+.rounded-image {
+    width: 200px; 
+    height: 200px;
+    border-radius: 100%;
+}
+
+.kotak {
+        background-color:#A7168F;
+        width: 100%;
+        border: 1px solid black;
+        margin: 0;
+        margin-top: 0;
+        margin-left: 0;
+        margin-right: 0;
+}
+
+.text {
+    font-size: larger;
+    color: #16A72E;
+}
+
+footer {
+    background-color: #A7168F;
+    color: #16A72E; 
+    padding: 14px; 
+    text-align: center;
+}
