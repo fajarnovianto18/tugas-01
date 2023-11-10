@@ -1,0 +1,63 @@
+body
+{
+    font-family: Arial,sans-serif;
+    margin:0 ;
+    padding: 0;
+    background-color: orange;
+}
+
+.nama{
+    color: brown;
+}
+.info{
+color: brown;
+}
+
+
+
+
+.navbar{
+    background-color: brown;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: orange;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.a-navbar:hover {
+    background-color: orange;
+}
+
+.rounded-image {
+    width: 200px; 
+    height: 200px;
+    border-radius: 100%;
+}
+
+.kotak {
+        background-color:brown;
+        width: 100%;
+        border: 1px solid black;
+        margin: 0;
+        margin-top: 0;
+        margin-left: 0;
+        margin-right: 0;
+}
+
+.text {
+    font-size: larger;
+    color: orange;
+}
+
+footer {
+    background-color: brown;
+    color: orange; 
+    padding: 14px; 
+    text-align: center;
+}
