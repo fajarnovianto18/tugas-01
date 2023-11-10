@@ -15,7 +15,7 @@ body
 .navbar a {
     float: left;
     display: block;
-    color: antiquewhite;
+    color: #2FD087;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -31,7 +31,7 @@ body
     border-radius: 100%;
 }
 .profil{
-color: #fff;
+color: #D02F78;
 }
 
 .kotak {
@@ -47,15 +47,15 @@ color: #fff;
 
 .text {
     font-size: larger;
-    color: white;
+    color: #2FD087;
 }
 .kontak{
-color: #fff;
+color: #2FD087;
 }
 
 footer {
     background-color: #D02F78;
-    color: #fff; 
+    color: #2FD087; 
     padding: 14px; 
     text-align: center;
     display: block;
